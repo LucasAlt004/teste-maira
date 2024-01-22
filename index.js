@@ -22,3 +22,5 @@ const initSortableList = (e) => {
 
 sortableList.addEventListener("dragover", initSortableList);
 sortableList.addEventListener("dragenter", (e) => e.preventDefault());
+
+let teste = "";
